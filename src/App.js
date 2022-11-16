@@ -33,8 +33,8 @@ const App = () => (
         </div>
       </Layout>
       <div className="footer">
-        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}> 
-          <Link to="https://next-sw.vercel.app/" target='_blank'>
+        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
+          <Link to="https://next-sw.vercel.app/" target="_blank">
             Swapnil Khare
           </Link> <br />
           Made as a project.
